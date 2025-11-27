@@ -2,3 +2,8 @@
     width: 300px;
     height: auto;
 }
+
+.avatar_distorted {
+    width: 200px;
+    height: 400px;
+}
