@@ -17,7 +17,11 @@ body {
   font-size: 22px;
 }
 
-.confirm {
+#large-para {
+  font-size: 35px;
+}
+
+#confirm-button {
   background: green;
   color: white;
   font-weight: bold;
